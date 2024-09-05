@@ -14,7 +14,7 @@ I builded recommender systems with a collaborative filtering approach & a conten
 
 **Course Link:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
-###Skills that Gained
+### Skills that Gained
 + Logistic Regression
 + Artificial Neural Network
 + Linear Regression
@@ -23,7 +23,7 @@ I builded recommender systems with a collaborative filtering approach & a conten
 
 
 ## Course Overview
-1.[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
     - Introduction to Machine Learning
     - Supervised vs Unsupervised Machine Learning
     - Regression Model, Cost Function
@@ -38,7 +38,7 @@ I builded recommender systems with a collaborative filtering approach & a conten
     - Gradient Descent for Logistic Regression
     - Overfitting
     - Regularization
-1.[Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+1. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
     - Neural Networks
     - Neurons and Layers
     - Building Neural Network with TensorFlow
